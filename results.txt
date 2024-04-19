@@ -1,0 +1,34 @@
+Solution 0 | start_location: NashvilleTN | max_time: 50.0 | speed: 80
+1. NashvilleTN to GlasgowKY | label: Glasgow_tofrom_Nashville_on_I-65S | edge_pref: 0.0017, edge_time: 0.00 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+2. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+3. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+4. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+5. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+6. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+7. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+8. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+9. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+10. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+11. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+12. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+13. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+14. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+15. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+16. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+17. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+18. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+19. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+20. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+21. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+22. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+23. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+24. GlasgowKY to NashvilleTN | label: Glasgow_tofrom_Nashville_on_I-65S | edge_pref: 0.0093, edge_time: 0.02 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+start_from: NashvilleTN | total_trip_preference: 0.1052 | total_distance: 1914 miles | total_trip_time: 25.26 hours
+
+
+Summary:
+Total Solutions: 1
+Average Instrumented Runtime: 0.003941059112548828 seconds
+Maximum TotalTripPreference: 0.10518200879039305
+Average TotalTripPreference: 0.10518200879039305
+Minimum TotalTripPreference: 0.10518200879039305
