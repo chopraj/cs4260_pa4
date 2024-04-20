@@ -1,34 +1,47 @@
 Solution 0 | start_location: NashvilleTN | max_time: 50.0 | speed: 80
-1. NashvilleTN to GlasgowKY | label: Glasgow_tofrom_Nashville_on_I-65S | edge_pref: 0.0017, edge_time: 0.00 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-2. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-3. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-4. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-5. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-6. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-7. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-8. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-9. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-10. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-11. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-12. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-13. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-14. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-15. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-16. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-17. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-18. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-19. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-20. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-21. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-22. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0346, edge_time: 0.09 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-23. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0128, edge_time: 0.03 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-24. GlasgowKY to NashvilleTN | label: Glasgow_tofrom_Nashville_on_I-65S | edge_pref: 0.0093, edge_time: 0.02 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
-start_from: NashvilleTN | total_trip_preference: 0.1052 | total_distance: 1914 miles | total_trip_time: 25.26 hours
+1. NashvilleTN to GlasgowKY | label: Glasgow_tofrom_Nashville_on_I-65S | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+2. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+3. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+4. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+5. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+6. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+7. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+8. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+9. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+10. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+11. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+12. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+13. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+14. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+15. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+16. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+17. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+18. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+19. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+20. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+21. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+22. GlasgowKY to SomersetKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0173, edge_time: 0.04 hours, inter_loc_pref: 0.1700, inter_loc_time: 0.43 hours
+23. SomersetKY to GlasgowKY | label: Somerset_tofrom_Glasgow_on_Cumberland Pkwy | edge_pref: 0.0150, edge_time: 0.04 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+24. GlasgowKY to NashvilleTN | label: Glasgow_tofrom_Nashville_on_I-65S | edge_pref: 0.0955, edge_time: 0.24 hours, inter_loc_pref: 0.0100, inter_loc_time: 0.03 hours
+start_from: NashvilleTN | total_trip_preference: 0.3880 | total_distance: 1914 miles | total_trip_time: 25.09 hours
 
 
 Summary:
 Total Solutions: 1
-Average Instrumented Runtime: 0.003941059112548828 seconds
-Maximum TotalTripPreference: 0.10518200879039305
-Average TotalTripPreference: 0.10518200879039305
-Minimum TotalTripPreference: 0.10518200879039305
+Average Instrumented Runtime: 0.003918886184692383 seconds
+Maximum TotalTripPreference: 0.38799430255549994
+Average TotalTripPreference: 0.38799430255549994
+Minimum TotalTripPreference: 0.38799430255549994
+Welcome travelers to your exciting road trip through the picturesque countryside of Tennessee and Kentucky! Your journey begins in the vibrant city of Nashville, Tennessee, known for its lively music scene and rich history. As you depart from Nashville, you'll hit the open road towards Glasgow, Kentucky. 
+
+Your first leg of the trip takes you through rolling hills and lush farmlands as you cross the state border. Arriving in Glasgow, you'll be captivated by the small-town charm and friendliness of the locals. Make sure to stop by the historic downtown area and explore the quaint shops and cafes.
+
+Next, you'll head towards Somerset, Kentucky, a scenic town nestled in the heart of the Daniel Boone National Forest. The drive is dotted with picturesque views of the countryside and winding roads that lead you to Somerset's welcoming atmosphere and outdoor recreational opportunities.
+
+After soaking in the natural beauty of Somerset, you'll make your way back to Glasgow for a brief stop to enjoy some local cuisine and maybe pick up a souvenir to remember your trip by. Then it's back on the road to Somerset for another round of exploration and relaxation.
+
+This pattern of traveling back and forth between Glasgow and Somerset allows you to truly immerse yourself in the charm and character of each town, discovering hidden gems and enjoying the warm hospitality of the locals.
+
+As you continue on your journey, you'll find each trip between the two towns offers a unique perspective of the landscape and a chance to experience new adventures along the way. Whether you're seeking outdoor activities, cultural experiences, or simply a peaceful drive, this road trip has something for everyone.
+
+Finally, as you embark on your last leg of the trip back to Nashville, take the time to reflect on the unforgettable memories you've made and the beautiful sights you've seen. Your road trip through Tennessee and Kentucky has been a captivating adventure filled with scenic drives, charming towns, and warm hospitality. Until next time, happy travels!

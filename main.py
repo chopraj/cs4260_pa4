@@ -315,6 +315,7 @@ def print_results(max_pref, min_pref, avg_pref, avg_time, count, results_file, c
         print(f"Maximum TotalTripPreference: {max_pref}")
         print(f"Average TotalTripPreference: {avg_pref}")
         print(f"Minimum TotalTripPreference: {min_pref}")
+        print(f"{get_story(curr_rt)}")
 
     # Reset standard output to the console
     sys.stdout = sys.__stdout__
